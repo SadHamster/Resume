@@ -180,10 +180,17 @@ _Languages, tools and technologies summary_: Single-tiered application, Borland 
 
 &nbsp;  | &nbsp;
 --------|---------------------------------------------------------------------------------------------------------------
-__2013__| Certified ScrumMaster, Scrum Alliance
-__2012__| QCon San Francisco
-__2005__| Bachelor degree in computer science, South-Russian State University of Economics and Service, Russia
-__2002__| Voc. School Diploma in Telecom Systems, Stavropol College of Communications, Russia
+__2013__| Algorithms: Design and Analysis
+__2013__| Certified Agile Professional, ScrumTrek, Certified ICAgile Professional
+__2012__| Developing Applications for IBM WebSphere Process Server V7-1 (ZB711), Self-pass
+__2012__| z/os and DB2, IBM
+__2012__| IBM WebSphere Message Broker V7.0 Developer Workshop ZM663, Self-pass
+__2012__| 000-607 IBM WebSphere Process Server V7.0 Integration Development, Prometric
+__2012__| Oracle sertificate professional, java SE 6 Programmer, Pearsonvue
+__2005__| WebSphere MQ V6, Russia, Intuit
+__2009__| Specialist organizations and information security technologies, Russia Stavropol State University. Faculty of Physics and Mathematics.
+__2006__| Quincy College, USA, Massachusetts
+
 
 
 
