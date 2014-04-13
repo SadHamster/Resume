@@ -51,46 +51,61 @@ _Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spr
 
 ###Work experience
 ------------------------------------------------------------------------------------------------------------------------
-__INgrooves/Inscribe Digital/One Digital__, San Francisco, CA, (www.ingrooves.com)  
-Senior Software Engineer  
-May 2010 - November 2013 (3 years 7 months)  
+__Cinimex__, Moscow, Russia, (www.cinimex.ru)
+Senior Software Engineer
+June 2011 — still employed
 
-Design and development of the INscribe Digital distribution platform (SOA based application for electronic book delivery) that was built from ground up in order to replace previously used distribution solution.  
+####Design and development of the _"Service of Interaction Control"_
+MDB based application for integration several bank systems by exchanging xml business objects.
+__Technical lead__ of team 13 person (3 Analyst, 6 Developers (1 remout), 2 Enginie, 2 QA)
 
-  - Developed UI (RIA, Flex/ActionScript, IoC, Dependency Injection, cross-browser compatibility);
-  - Back-end development, including database schema changes;
-  - Designed and implemented a software solution for long-running data migration operations;
-  - Developed build/deployment scripts for some parts of the system (Ant, MSBuild, PowerShell);
-  - Developed reports (SQL Server Reporting Services);  
-  - Installed and configured Continuous Integration Infrastructure;  
+ - Optimization of BPEL code
+ - Migration processes from long-running to the short-running
+ - Participation in the introduction into commercial operation. 
+ - Migrating system from Solaris to AIX 
+ - Develop a system for monitoring and gathering KPI based on CEI
   
-Customization and adaptation of the in-house media distribution platform for the electronic books market.  
+ __Achievements:__
+ Change development methodology to _Agile Scrum_. Changed development metodology gave us opportunity to reduced release duration. Changed assessment tasks to collective assessment increased precision of the estimate. Retrospectives helping detect problems and resolve them in a short time.
 
-  - Customized UI to allow users from different portals see customized views;
-  - Created UI themes to represent different portals;
-  - Worked on OLAP cubes "customization" (created separate OLAP cubes and customized MDX queries for them);
 
-Development of a digital media distribution platform (ADAM project).  
+####Design and development of the _"Client Service Bus"_ 
+This pilot project for new range of customer services. MDB based application. It's a high load project with average of 5 000 000 message per day.
+__Technical lead__ of team 3 person (1 Analyst, 1 Arhitector, 1 Developer)
+	
+ - Data collection and determination of functional and non functional requirements 
+ - Design the application architecture
+ - Organization of work on the project
+ - Manage project risks 
+ 
+ __Achievements:__
+Successfully showed presale demonstration and sold a project for a bank.
 
-  - Developed parts of the UI;
-  - Designed and developed parts of the back-end (API, DB schema);
-  - Developed and optimized Reports (SSRS);
-  - Modified importers for new customer needs;
-  - Developed data migration scripts;
-  - Developed a quick import tool for applying data corrections received from suppliers (long-running, Python, Multiprocessing, Cluster);
 
-  Developed a data aggregation tool for a specific task of gathering ebook information (including updates and corrections) from different local sources and merging it into files, appropriate for import into the distribution system (Python)
+####Design and development of the "Service of Incident Analises". 
+This comples collect different data about incident from different systems and representation data in report form.
+__Technical lead__ of team 4 person (1 Analyst, 2 Developers, 1 QA)
+
+ - Design of the project idea. 
+ - Create pre-sales presentations.
+ - Create a team to accomplish a task 
+ - Creating a pilot project. 
+ - Demonstration pilot project. 
+ - Gather requirements from the customer
+__Achievements:__
+Successfully integrated in test environment.
 
 
 _Languages, tools and technologies summary_: 
-C#, Python, LINQ, Entity Framework, MSMQ, WCF, WPF, Transact-SQL, ActionScript3/Flex, Ant, MSBuild, Buildbot, TeamCity, NuGet, Octopus Deploy, PowerShell, Subversion.
+J2EE, Spring, JPA, JTA, JAX-B, EJB, EclipseLink, IBM MQ, WMB, BPML, ESQL, WAS, WPS, JSF, Wicket, TSQL, PL/SQL, Python, Eclipse, Ant, Maven, Artifactory, JUnit, Subversion, JIRA, Visio, MSP, *nix.
 
 
   <div style="page-break-after:always"> 
   </div>
 
 
-------------------------------------------------------------------------------------------------------------------------
+***
+
 __South Interregional Energetic Company JSC__, Pyatigorsk, Russia (www.umek-sk.ru)  
 _ОАО "Южная Межрегиональная энергетическая компания"_  
 Lead Software Engineer  
