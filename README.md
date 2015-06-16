@@ -5,8 +5,8 @@ ___Full-Stack Engineer___
  Russia   
  Korovinskoe shosse 6k3 ap. 63
  Moscow, 127486  
- +7 985 645 7122
- AntonDegtyarev@yandex.ru
+ +7 985 645 7122   
+AntonDegtyarev@yandex.ru
 
 
 
