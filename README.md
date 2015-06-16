@@ -62,6 +62,10 @@ Design and implemented the Methodology of Development process based on RUP and A
 
 Successfully complete few projects at position Technical Lead and Project Manager.
 
+
+_Languages, tools and technologies summary_: 
+JIRA, Visio, MS Project Server, Soft Skills, MS Excel, MS SharePoint.
+
 ------------------------------------------------------------------------------------------------------------------------
 __Cinimex__, Moscow, Russia, (www.cinimex.ru)   
 _ЗАО Синимекс информатика_   
