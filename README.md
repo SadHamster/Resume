@@ -52,10 +52,10 @@ _Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spr
 
 ###Work experience
 ------------------------------------------------------------------------------------------------------------------------
-__Cinimex__, Moscow, Russia, (www.cinimex.ru)
-_ЗАО Синимекс информатика_
-Head of integration department
-April 2014 — still employed
+__Cinimex__, Moscow, Russia, (www.cinimex.ru)<br/>
+_ЗАО Синимекс информатика_<br/>
+Head of integration department<br/>
+April 2014 — still employed<br/>
 
  __Achievements:__
 Design and implemented the Methodology of Development process based on RUP and AUP methodology. Integrated Atlassian Jira and MS Project Server. Made project health metrics.
