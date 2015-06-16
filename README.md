@@ -43,7 +43,8 @@ _Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spr
 
 
 
-  <div style="page-break-after:always">	
+  <div style="page-break-after:always">
+</div>
   
 
 
@@ -61,6 +62,7 @@ Design and implemented the Methodology of Development process based on RUP and A
 
 Successfully complete few projects at position Technical Lead and Project Manager.
 
+------------------------------------------------------------------------------------------------------------------------
 __Cinimex__, Moscow, Russia, (www.cinimex.ru)
 _ЗАО Синимекс информатика_
 Senior Software Engineer
@@ -109,10 +111,6 @@ Successfully integrated in test environment.
 
 _Languages, tools and technologies summary_: 
 J2EE, Spring, JPA, JTA, JAX-B, EJB, EclipseLink, IBM MQ, WMB, BPML, ESQL, WAS, WPS, JSF, Wicket, TSQL, PL/SQL, Python, Eclipse, Ant, Maven, Artifactory, JUnit, Subversion, JIRA, Visio, MSP, *nix.
-
-
-
-  </div>
 
 ------------------------------------------------------------------------------------------------------------------------
 __"Stavropolpromstroybank" JSC__, Stavropol, Russia (www.psbst.ru)  
