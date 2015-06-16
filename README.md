@@ -13,7 +13,7 @@ ___Full-Stack Engineer___
 ###Objectives
 
 - Senior Software Engineer position in a motivated team working on interesting and complex projects;  
-- Do grate job for good money;  
+- Do good job for good money;  
 
 
 ###Summary
@@ -148,6 +148,7 @@ Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird
 
 &nbsp;  | &nbsp;
 --------|---------------------------------------------------------------------------------------------------------------
+__2014__| IBM ODM V8.0 Application Development
 __2013__| Algorithms: Design and Analysis
 __2013__| Certified Agile Professional, ScrumTrek, Certified ICAgile Professional
 __2012__| Developing Applications for IBM WebSphere Process Server V7-1 (ZB711), Self-pass
