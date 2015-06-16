@@ -13,12 +13,12 @@ ___Full-Stack Engineer___
 ###Objectives
 
 - Senior Software Engineer position in a motivated team working on interesting and complex projects;  
-- Work on cutting edge technologies that will make the world a better place;  
+- Do grate job for good money;  
 
 
 ###Summary
 
-- Over six years' experience developing software of different complexity and scope;  
+- Over seven years' experience developing software of different complexity and scope;  
 - Strong problem solving and analytical skills;
 - Excellent communication skills; 
 - Experience in delivering software to general availability and supporting it through multiple releases;  
@@ -38,7 +38,7 @@ _Databases_               | Oracle, Derby, Oracle TimesTen, DB2, Firebird, Postg
 _Operating Systems_       | Windows, Linux, OS X, Z/OS.                                                                    
 _Source Control_          | SVN, CVS, GIT.                                                                           
 _Testing_                 | jUnit.                                                                            
-_Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spring Framework, Wicket, Artifactory, Track, JIRA, Confluence, JIRA Agile/GreenHopper, LINQ.                                       
+_Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spring Framework, Wicket, Artifactory, Track, JIRA, Confluence, JIRA Agile/GreenHopper.                                       
 
 
 
@@ -52,8 +52,17 @@ _Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spr
 ###Work experience
 ------------------------------------------------------------------------------------------------------------------------
 __Cinimex__, Moscow, Russia, (www.cinimex.ru)
+Head of integration department
+April 2014 — still employed
+
+ __Achievements:__
+Design and implemented the Methodology of Development process based on RUP and AUP methodology. Integrated Atlassian Jira and MS Project Server. Made project health metrics.
+
+Successfully complete few projects at position Technical Lead and Project Manager.
+
+__Cinimex__, Moscow, Russia, (www.cinimex.ru)
 Senior Software Engineer
-June 2011 — still employed
+June 2011 — April 2014
 
 ####Design and development of the _"Service of Interaction Control"_
 MDB based application for integration several bank systems by exchanging xml business objects.
@@ -103,60 +112,11 @@ J2EE, Spring, JPA, JTA, JAX-B, EJB, EclipseLink, IBM MQ, WMB, BPML, ESQL, WAS, W
   <div style="page-break-after:always"> 
   </div>
 
-
-***
-
-__South Interregional Energetic Company JSC__, Pyatigorsk, Russia (www.umek-sk.ru)  
-_ОАО "Южная Межрегиональная энергетическая компания"_  
-Lead Software Engineer  
-January 2010 - May 2010  
-
-Design and development of an Energy consumption accounting system for energy distribution market.
-
- - Gathered business requirements and participated in creation of the technical specifications document;
- - Participated in design and development of the software solution in accordance with the created earlier technical specifications document;
- - Developed different parts of the application and database (stored procedures, tables, views)
-
-Owned design and development of the reports generation tool and integration library for it.
-
- - Simplified reports development, generation and integration with the main software solution.  
-
-
-_Languages, tools and technologies summary_: 
-C++, Embarcadero RAD Studio (C++ Builder), ODAC, DevExpress VCL, Oracle 9i/11g, PL/SQL, Subversion
-
-<br/>
-
-
-------------------------------------------------------------------------------------------------------------------------
-__Integra__, Stavropol, Russia  
-_ООО "Интегра"_  
-Software Developer  
-April 2009 - January 2010  
-
-Participated in design and development of a B2B eCommerce solution.
-
-  - Developed different parts of the client-side application;
-  - Developed database stored procedures;
-  - Developed client application automatic updater;
-
-Designed, implemented and tested a data synchronization solution (sync. between server-side data and client-side data)
-
-Listed as an author in a patent for the developed software (\#2010611387, Russian Federation).
-
-_Languages, tools and technologies summary_: 
-Object Pascal, Embarcadero RAD Studio (Delphi 2009), ADO, MS Access, MSSQL, SOAP, Python, DevExpress VCL, SQL, Subversion
-
-
-  <div style="page-break-after:always"> 
-  </div>
-
-
 ------------------------------------------------------------------------------------------------------------------------
 __"Stavropolpromstroybank" JSC__, Stavropol, Russia (www.psbst.ru)  
 _"Ставропольпромстройбанк" ОАО_  
 Software Engineer / Engineering Manager  
-July 2005 - April 2009  
+October 2007 - June 2011  
 
 Supported and developed different parts of the in-house Banking Software.  
 
@@ -169,7 +129,7 @@ Supported and developed different parts of the in-house Banking Software.
  - Helped with annual financial reports generation and checking;
  - Mentored and provided leadership to junior developers;
 
-Led a team of 2 engineers.
+Led a team of 3 engineers.
 
 _Languages, tools and technologies summary_: 
 Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird, IBExpert, Python, GNU/Linux, SQL, CVS, Subversion, FastReport  VCL
@@ -178,17 +138,6 @@ Object Pascal, Borland Delphi 2007, UIB (Unified Interbase components), Firebird
 
 
 ------------------------------------------------------------------------------------------------------------------------
-__Contractor__, Stavropol, Russia  
-2003
-
-Designed and Developed inventory and reporting software for a local car dealership (www.demidovcars.ru).  
-
- - Significantly improved time of car selling process;
- - Developed printing forms to print on vehicle's certificate of title to avoid handwriting;
-
-_Languages, tools and technologies summary_: Single-tiered application, Borland Delphi 7, BDE, FastReport VCL
-<br/>
-
 
 
 ###Education/Events/Certifications
@@ -207,7 +156,3 @@ __2009__| Specialist organizations and information security technologies, Russia
 __2006__| Quincy College, USA, Massachusetts
 
 
-
-
-###References
-Please contact me for references.
