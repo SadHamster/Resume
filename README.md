@@ -52,7 +52,7 @@ _Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spr
 
 ###Work experience
 ------------------------------------------------------------------------------------------------------------------------
-__Cinimex__, Moscow, Russia, (www.cinimex.ru)<br/>
+__Cinimex__, Moscow, Russia, (www.cinimex.ru)   
 _ЗАО Синимекс информатика_<br/>
 Head of integration department<br/>
 April 2014 — still employed<br/>
@@ -63,9 +63,9 @@ Design and implemented the Methodology of Development process based on RUP and A
 Successfully complete few projects at position Technical Lead and Project Manager.
 
 ------------------------------------------------------------------------------------------------------------------------
-__Cinimex__, Moscow, Russia, (www.cinimex.ru)
-_ЗАО Синимекс информатика_
-Senior Software Engineer
+__Cinimex__, Moscow, Russia, (www.cinimex.ru)<br/>
+_ЗАО Синимекс информатика_<br/>
+Senior Software Engineer<br/>
 June 2011 — April 2014
 
 ####Design and development of the _"Service of Interaction Control"_
