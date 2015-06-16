@@ -44,7 +44,7 @@ _Other_                   | Ant, Maven, IoC, GoF, JPA, JTA, EJB, ESQL, JAXB, Spr
 
 
   <div style="page-break-after:always">	
-  </div>
+  
 
 
 
@@ -111,7 +111,7 @@ _Languages, tools and technologies summary_:
 J2EE, Spring, JPA, JTA, JAX-B, EJB, EclipseLink, IBM MQ, WMB, BPML, ESQL, WAS, WPS, JSF, Wicket, TSQL, PL/SQL, Python, Eclipse, Ant, Maven, Artifactory, JUnit, Subversion, JIRA, Visio, MSP, *nix.
 
 
-  <div style="page-break-after:always"> 
+
   </div>
 
 ------------------------------------------------------------------------------------------------------------------------
